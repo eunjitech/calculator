@@ -51,6 +51,7 @@ function operate(){
     result.value = operated;
     num2Check = false;
     num2 = "";
+    console.log(operated);
 }
 
 function handleOperator(e){
